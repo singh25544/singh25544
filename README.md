@@ -5,34 +5,24 @@ del mio portfolio tecnico.
 
 ## 👤 Qualcosa su di me
 
-...
+Sto imparando a usare GitHub come ambiente dove imparare cose nuove
 
 ## ❤️ Le mie passioni
 
-- ...
-- ...
-- ...
+- Informatica
+- Scrivere codici
 
 ## 💻 Tecnologia ed esperienze
 
 Ho già avuto occasione di utilizzare o conoscere:
 
-- ...
-- ...
-- ...
-
-## 🧠 Una cosa che potrei insegnare ai miei compagni
-
-...
-
+- Visual Studio Code
+- flowgorithm
+  
 ## 🔍 Cosa mi piacerebbe imparare
 
-...
-
-## 🚀 Un progetto che mi piacerebbe realizzare
-
-...
+Vorrei imparare a scrivere codici più complessi rispetto a quelli che so già scrivere
 
 ## 🎯 Guardando al futuro
 
-...
+Vorrei sapere più di informatica

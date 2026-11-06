@@ -24,7 +24,6 @@ Ho già avuto occasione di utilizzare o conoscere:
 - code block
 - flochart
 - git hub
-- github
   
 ## 🔍 Cosa mi piacerebbe imparare
 
